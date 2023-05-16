@@ -1,0 +1,24 @@
+2023-05-14 09:05:19 INFO  LoginPage :43 - Enter username standard_user to username field [[ChromeDriver: chrome on WINDOWS (7395fe1ed153f65e5381457a6b4fe458)] -> xpath: //input[@id='user-name']]
+2023-05-14 09:05:422 INFO  LoginPage :48 - Enter password secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (7395fe1ed153f65e5381457a6b4fe458)] -> id: password]
+2023-05-14 09:05:709 INFO  LoginPage :53 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (7395fe1ed153f65e5381457a6b4fe458)] -> id: login-button]
+2023-05-14 09:05:69 INFO  LoginPage :64 - Get text from products title
+2023-05-14 10:05:147 INFO  LoginPage :43 - Enter username standard_user to username field [[ChromeDriver: chrome on WINDOWS (a2fbcb8f6d1ec99fd8fe066308c322c7)] -> xpath: //input[@id='user-name']]
+2023-05-14 10:05:461 INFO  LoginPage :48 - Enter password secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (a2fbcb8f6d1ec99fd8fe066308c322c7)] -> id: password]
+2023-05-14 10:05:718 INFO  LoginPage :53 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (a2fbcb8f6d1ec99fd8fe066308c322c7)] -> id: login-button]
+2023-05-14 10:05:291 INFO  LoginPage :64 - Get text from products title
+2023-05-14 10:05:123 INFO  LoginPage :45 - Enter username standard_user to username field [[ChromeDriver: chrome on WINDOWS (ec30f0b17c5d5235723fc9ef9d985e1f)] -> xpath: //input[@id='user-name']]
+2023-05-14 10:05:597 INFO  LoginPage :50 - Enter password secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (ec30f0b17c5d5235723fc9ef9d985e1f)] -> id: password]
+2023-05-14 10:05:814 INFO  LoginPage :55 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (ec30f0b17c5d5235723fc9ef9d985e1f)] -> id: login-button]
+2023-05-14 10:05:153 INFO  LoginPage :64 - Count Total no of products
+2023-05-14 10:05:172 INFO  LoginPage :45 - Enter username standard_user to username field [[ChromeDriver: chrome on WINDOWS (a98bc4cca6e2b579b9af79b64cfac502)] -> xpath: //input[@id='user-name']]
+2023-05-14 10:05:495 INFO  LoginPage :50 - Enter password secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (a98bc4cca6e2b579b9af79b64cfac502)] -> id: password]
+2023-05-14 10:05:747 INFO  LoginPage :55 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (a98bc4cca6e2b579b9af79b64cfac502)] -> id: login-button]
+2023-05-14 10:05:168 INFO  LoginPage :64 - Count Total no of products
+2023-05-14 10:05:12 INFO  LoginPage :45 - Enter username standard_user to username field [[ChromeDriver: chrome on WINDOWS (3fa7288091bff528b73bd51449ad92d0)] -> xpath: //input[@id='user-name']]
+2023-05-14 10:05:466 INFO  LoginPage :50 - Enter password secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (3fa7288091bff528b73bd51449ad92d0)] -> id: password]
+2023-05-14 10:05:675 INFO  LoginPage :55 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (3fa7288091bff528b73bd51449ad92d0)] -> id: login-button]
+2023-05-14 10:05:228 INFO  LoginPage :60 - Get text from products title
+2023-05-14 10:05:818 INFO  LoginPage :45 - Enter username standard_user to username field [[ChromeDriver: chrome on WINDOWS (0a3d6230c89b4ad492d527a3324f50a1)] -> xpath: //input[@id='user-name']]
+2023-05-14 10:05:76 INFO  LoginPage :50 - Enter password secret_sauce to password field [[ChromeDriver: chrome on WINDOWS (0a3d6230c89b4ad492d527a3324f50a1)] -> id: password]
+2023-05-14 10:05:285 INFO  LoginPage :55 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (0a3d6230c89b4ad492d527a3324f50a1)] -> id: login-button]
+2023-05-14 10:05:494 INFO  LoginPage :64 - Count Total no of products
